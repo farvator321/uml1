@@ -1,0 +1,14 @@
+window_sizes 1800 901 450 1344 719 128
+
+diagrams
+  active  classdiagram_ref 128002 // ClassDiagram1
+    1344 719 130 A4 0 0
+end
+show_stereotypes
+selected operation_ref 136066 // get
+open
+  class_ref 128002 // BaseData
+  class_ref 128130 // IntData
+  class_ref 134658 // DoubleData
+end
+end
